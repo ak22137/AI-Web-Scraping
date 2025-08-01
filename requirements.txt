@@ -1,0 +1,6 @@
+langchain
+langgraph
+chromadb
+playwright
+google-generativeai
+python-dotenv
