@@ -1,0 +1,17 @@
+{
+  "q_table": {
+    "len_4_words_4": {
+      "improve_length": 0.06,
+      "improve_style": 0.0,
+      "improve_structure": 0.0,
+      "keep_as_is": 0.0
+    },
+    "len_0_words_0": {
+      "improve_length": -0.04000000000000001,
+      "improve_style": 0.0,
+      "improve_structure": 0.0,
+      "keep_as_is": 0.0
+    }
+  },
+  "timestamp": "2025-08-05T09:55:58.063109"
+}

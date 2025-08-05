@@ -4,3 +4,4 @@ chromadb
 playwright
 google-generativeai
 python-dotenv
+numpy
