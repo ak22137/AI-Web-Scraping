@@ -1,8 +1,7 @@
 
+# AI-Web-Scraping
 
 https://github.com/user-attachments/assets/e2bbd41d-653b-4076-9c8a-44b7e4d383fe
-
-# AI-Web-Scraping
 
 ## Overview
 AI-Web-Scraping is an agentic, human-in-the-loop workflow for automated book publication and content improvement. It scrapes web content from a given URL, uses Gemini LLM to spin and improve chapters, and leverages reinforcement learning (RL) to iteratively enhance output based on human feedback. All versions are saved in ChromaDB for versioning and search.
