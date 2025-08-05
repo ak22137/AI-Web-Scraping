@@ -32,5 +32,3 @@ AI-Web-Scraping is an agentic, human-in-the-loop workflow for automated book pub
 4. Add your Gemini API key to `.env`.
 5. Run `main.py` and follow the prompts for human review.
 
-## License
-Developer retains their license. This project is for evaluation purposes only.
